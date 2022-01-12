@@ -1,2 +1,2 @@
 # Metodo-Numericos
-Métodos númericos en Python
+Métodos númericos aplicados a la ingeniería química en Python 
